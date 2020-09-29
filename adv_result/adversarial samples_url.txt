@@ -1,0 +1,22 @@
+adversarial examples:	
+    mnist:
+        vgg11, 13, 16, 19; resnet18, 34, 50, 101, googlenet12, 16, 22:
+            url: https://pan.baidu.com/s/1UL9uOVp5fzk6woxZVhk2WQ
+            password: k0ii
+        lenet1, 4, 5:
+            url: https://pan.baidu.com/s/1Jn7cT-dIvT4YbGFz8mKPQA
+            password: 8zq8
+    cifar10:
+        googlenet12, 16, 22: 
+            url: https://pan.baidu.com/s/1fFX7TWcLP9T2IyMG6wdOcQ
+            password：6fmy
+        vgg11, 13, 16, 19:
+            url: https://pan.baidu.com/s/1n1P1nNZlfoZq0JQrdR4gfw 
+            password: eqm6
+        resnet18, 34, 50:
+            url: https://pan.baidu.com/s/1kD9w89kLEXshXeztEI-tzA
+            password: 0iam
+        resnet101:
+            url: https://pan.baidu.com/s/1z0jtEB8BqCnM1HWTES2RxQ
+            password: f6ot
+

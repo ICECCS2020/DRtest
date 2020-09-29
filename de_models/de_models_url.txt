@@ -1,0 +1,43 @@
+retrained models:	
+    mnist:
+        vgg11, 13, 16, 19
+            url: https://pan.baidu.com/s/1lLWcTDesT1JuBnEJAOIyTw
+            password: yhpq
+        resnet18, 34, 50, 101
+            url: https://pan.baidu.com/s/1P0GbZaLmmpMBf07eDHAxfA
+            password: ys5f
+       googlenet12, 16, 22:
+            url: https://pan.baidu.com/s/1EdCPFn3uR-_z1BM6m4szXw
+            password: m08m
+        lenet1, 4, 5:
+            url: https://pan.baidu.com/s/1IItJy7Z0K96t3hEPMvq3Xw
+            password: awsb
+    cifar10:
+        googlenet12, 16, 22: 
+            url: https://pan.baidu.com/s/1lk37PPfC33VUVNtFTFLoUw
+            password: 9vad
+        vgg11:
+            url: https://pan.baidu.com/s/1FEKS3Q6t3rVWyNmU6MUbmg
+            password: 6r3r
+        vgg13:
+            url: https://pan.baidu.com/s/1XyRuFj6QIFlXjSJP7b2vaw
+            password: xcdc
+        vgg16:
+            url: https://pan.baidu.com/s/17xvyY16EXOWhdFqQMraJxQ
+            password: k3l1
+        vgg19:
+            url: https://pan.baidu.com/s/1XgSc-CFwNJ4tZURHB3KBkw
+            password: dasp
+        Resnet18:
+            url: https://pan.baidu.com/s/1WOLp2R7Z6fKyxGDgDdknQw
+            password: zukp
+        Resnet34:
+            url: https://pan.baidu.com/s/1QxPiD0ZVFhZhXLXExxE81g
+            password: n7u0
+        Resnet50
+            url: https://pan.baidu.com/s/1GZ53WC7wSv6oNooM6cukxA
+            password: grtc
+        Resnet101:
+            url: https://pan.baidu.com/s/1o76veW8SszSHFMVv_nwKMA
+            password: c4xp
+
